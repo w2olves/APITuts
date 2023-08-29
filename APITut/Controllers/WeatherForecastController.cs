@@ -15,7 +15,7 @@ namespace APITut.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
-            //Just adding a comment
+            //This is a new branch commit will be merged later
             _logger = logger;
         }
 
