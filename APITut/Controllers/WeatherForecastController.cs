@@ -15,6 +15,7 @@ namespace APITut.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
+            //Just adding a comment
             _logger = logger;
         }
 
