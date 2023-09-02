@@ -16,7 +16,7 @@ namespace APITut.Models
         public string Amenity { get; set; }
 
 
-        public int SqFt { get; set; }
+        public int Sqft { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime UpdatedDate { get; set; }
     }
